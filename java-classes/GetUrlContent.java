@@ -56,7 +56,7 @@ public class GetUrlContent extends MaxObject
         	URLConnection connection = website.openConnection();
         	BufferedReader in = new BufferedReader(
            	                     new InputStreamReader(
-           	                         connection.getInputStream()));
+           	                         connection.getInputStream(), "UTF-8"));
 
         	StringBuilder response = new StringBuilder();
         	String inputLine;
