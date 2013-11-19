@@ -36,8 +36,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 89.5, 135.0, 457.0, 18.0 ],
-					"text" : "url https://raw.github.com/natcl/max_package_downloader/master/package-info.json"
+					"patching_rect" : [ 89.5, 135.0, 490.0, 18.0 ],
+					"text" : "url https://raw.github.com/natcl/max_package_downloader/master/package-info.json, bang"
 				}
 
 			}
@@ -168,8 +168,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 101.0, 163.0, 369.0, 18.0 ],
-					"text" : "url https://raw.github.com/theonion/fartscroll.js/master/README.md"
+					"patching_rect" : [ 101.0, 163.0, 402.0, 18.0 ],
+					"text" : "url https://raw.github.com/theonion/fartscroll.js/master/README.md, bang"
 				}
 
 			}
@@ -193,8 +193,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 51.0, 238.0, 580.0, 20.0 ],
-					"text" : "mxj GetUrlContent https://raw.github.com/natcl/max_package_downloader/master/max_packages_test.json"
+					"patching_rect" : [ 51.0, 238.0, 597.0, 20.0 ],
+					"text" : "mxj GetUrlContent https://raw.github.com/natcl/max_package_downloader/master/max_packages_master.json"
 				}
 
 			}
